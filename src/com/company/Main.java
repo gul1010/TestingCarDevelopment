@@ -9,6 +9,7 @@ public class Main {
         audi.number="";
         audi.door="3";
         audi.model="A3";
+        test cases for the car color
 
     }
 }
